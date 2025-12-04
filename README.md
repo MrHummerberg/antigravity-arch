@@ -14,8 +14,8 @@ Unofficial installer for **Google Antigravity** on Arch-based Linux distribution
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/apipa12/antigravity-installer.git
-   cd antigravity-installer
+   git clone https://github.com/MrHummerberg/antigravity-arch
+   cd antigravity-arch
    ```
 
 2. **Run the installer:**
